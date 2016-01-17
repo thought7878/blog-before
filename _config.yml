@@ -1,0 +1,18 @@
+auto:	          true
+
+markdown:         rdiscount
+pygments:         true
+paginate:         6
+permalink:        /:title
+
+title:            撒点野的博客
+url:              http://thought7878.github.io/
+feed:             /atom.xml
+author:
+    name:         撒点野
+    # twitter:      twitter.com/beiyuu
+description:      "撒点野的博客"
+author_info:      <a href="http://beiyuu.com/about">BeiYuu</a>
+
+copyright:
+    - Design by <a href="http://beiyuu.com/about" title="BeiYuu" target="_blank">BeiYuu</a> &copy; Copyright 2012
