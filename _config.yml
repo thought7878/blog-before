@@ -1,18 +1,41 @@
-auto:	          true
+# Site settings
+title:       撒点野的博客 
+email:       thought7878@qq.com 
+author:      撒点野
+description: "撒点野的技术博客"
+baseurl:     ""
+url:         "http://thought7878.github.io"
 
-markdown:         rdiscount
-pygments:         true
-paginate:         6
-permalink:        /:title
+#Duoshuo short Name / 多说的shortname
+duoshuo: 
 
-title:            撒点野的博客
-url:              http://thought7878.github.io/
-feed:             /atom.xml
-author:
-    name:         撒点野
-    # twitter:      twitter.com/beiyuu
-description:      "撒点野的博客"
-author_info:      <a href="http://beiyuu.com/about">BeiYuu</a>
+#Baidu analytics / 百度统计(异步的js码，注意使用异步版本的)
+baidu_analyze: 3908cbb144cf558ba6a823230d653fc22 
 
-copyright:
-    - Design by <a href="http://beiyuu.com/about" title="BeiYuu" target="_blank">BeiYuu</a> &copy; Copyright 2012
+# Google analytics
+google_analytics:
+
+# Optional features
+animated:           false
+show_related_posts: false
+show_post_footers:  false
+
+# Social icons
+show_social_icons: false
+github_username:
+twitter_username:
+google_plus_id:
+linkedin_username:
+bitcoin_url:
+paypal_url:
+flattr_button:
+
+# Build settings
+markdown:     kramdown
+permalink:    pretty
+paginate:     3
+sass:
+  compressed: true
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
