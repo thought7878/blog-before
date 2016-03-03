@@ -49,16 +49,12 @@ cd myproject
 
 * #### 四、编译 ####
 
-[Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
-
-[Markdown 是什么？](http://www.zhihu.com/question/19963642)
-
-[使用jekyll来写博客的一些心得](http://webfrogs.me/2012/12/20/use-jekyll/)
+...
 
 
 
 
-如果你能看完上面这些资料，我相信你也可以拥有一个免费空间，无限流量的博客了。
+
 
 
 
