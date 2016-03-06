@@ -4,12 +4,16 @@ title:      案例列表
 date:       2016-01-21 12:37:18
 ---
 
-### 一、<a href="http://www.fgm.cc/learn/" target="_blank" >小功能案例</a> ###
+### 一、小功能案例1 ###
+
+<a href="http://www.fgm.cc/learn/" target="_blank" >点这里</a> 
+
+### 二、小功能案例2 ###
+
+<a href="http://jikeytang.github.io/" target="_blank" >点这里</a>
 
 
-
-
-### 二、演示demos： ###
+### 三、演示demos： ###
 
 <a href="http://hongru.github.io/proj/jcanvas/rotate3D_Y.html"><img width="150" height="150" alt="3d base" src="http://hongru.github.io/images/readme/3d-base.jpg" /></a>
 <a href="http://hongru.github.io/test/audio/demo1.html"><img width="150" height="150" alt="audio test" src="http://hongru.github.io/images/readme/audio.jpg" /></a>
