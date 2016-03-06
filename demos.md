@@ -4,7 +4,9 @@ title:      案例列表
 date:       2016-01-21 12:37:18
 ---
 
-### 一、[小功能案例](http://www.fgm.cc/learn/) ###
+### 一、<a href="http://www.fgm.cc/learn/" target="_blank" >小功能案例</a> ###
+
+
 
 
 ### 二、演示demos： ###
