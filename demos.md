@@ -3,7 +3,12 @@ layout:     post
 title:      案例列表
 date:       2016-01-21 12:37:18
 ---
-	
+
+### 一、[小功能案例](http://www.fgm.cc/learn/) ###
+
+
+### 二、演示demos： ###
+
 <a href="http://hongru.github.io/proj/jcanvas/rotate3D_Y.html"><img width="150" height="150" alt="3d base" src="http://hongru.github.io/images/readme/3d-base.jpg" /></a>
 <a href="http://hongru.github.io/test/audio/demo1.html"><img width="150" height="150" alt="audio test" src="http://hongru.github.io/images/readme/audio.jpg" /></a>
 <a href="http://hongru.github.com/test/ballcos.html"><img width="150" height="150" alt="" src="http://hongru.github.io/images/readme/ballcos.jpg" /></a>
