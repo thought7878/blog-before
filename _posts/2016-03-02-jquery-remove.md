@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      jquery remove()方法详解
-date:       2015-03-02 12:31:19
+date:       2016-03-02 12:31:19
 summary:    jquery remove()方法详解
 categories: jquery
 ---
