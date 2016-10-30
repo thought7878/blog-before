@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      markdown 编辑文本总结
-date:       2006-03-01 12:32:19
+date:       2016-02-01 12:32:19
 summary:    markdown 编辑文本总结
 categories: github jekyll
 ---
